@@ -1,4 +1,5 @@
 print("Hello, world!")
 print("Hello everybody!")
 print("Hello my dear frend!)
+print("Wat s up?")
 
